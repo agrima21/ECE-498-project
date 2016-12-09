@@ -1,0 +1,18 @@
+Got 8364 ratings from 1000 users on 67 courses.
+Training: 4997, validation: 1716, test: 1653
+RMSE (validation) = 1.873987 for the model trained with rank = 8, lambda = 0.1, and numIter = 10.
+RMSE (validation) = 1.832124 for the model trained with rank = 8, lambda = 0.1, and numIter = 20.
+RMSE (validation) = 3.298389 for the model trained with rank = 8, lambda = 10.0, and numIter = 10.
+RMSE (validation) = 3.298389 for the model trained with rank = 8, lambda = 10.0, and numIter = 20.
+RMSE (validation) = 1.727140 for the model trained with rank = 12, lambda = 0.1, and numIter = 10.
+RMSE (validation) = 1.714515 for the model trained with rank = 12, lambda = 0.1, and numIter = 20.
+RMSE (validation) = 3.298389 for the model trained with rank = 12, lambda = 10.0, and numIter = 10.
+RMSE (validation) = 3.298389 for the model trained with rank = 12, lambda = 10.0, and numIter = 20.
+The best model was trained with rank = 12 and lambda = 0.1, and numIter = 20, and its RMSE on the test set is 1.710187.
+The best model improves the baseline by -22.41%.
+courses recommended for you:
+ 1: CS 447-Natural Language Processing
+ 2: CS 425-Distributed Systems
+ 3: CS 414-Multimedia Systems
+ 4: CS 438-Communication Networks
+ 5: CS 538-Advanced Computer Networks

@@ -1,0 +1,528 @@
+(i__main__
+CourseDatasetGenerator
+p1
+(dp2
+S'courseFileProcessed'
+p3
+S'movies.dat'
+p4
+sS'rIndex'
+p5
+(dp6
+S'1'
+(lp7
+I22
+aI23
+aI24
+aI55
+aI56
+aI58
+aI59
+asS'0'
+(lp8
+I13
+aI17
+aI18
+aI39
+aI40
+aI48
+aI51
+aI52
+asS'3'
+(lp9
+I8
+aI9
+aI14
+aI15
+aI16
+aI35
+aI36
+aI44
+aI46
+aI49
+aI50
+aI72
+asS'2'
+(lp10
+I0
+aI1
+aI2
+aI31
+aI41
+aI42
+asS'5'
+(lp11
+I4
+aI10
+aI11
+aI12
+aI20
+aI21
+aI28
+aI29
+aI45
+aI47
+aI53
+aI54
+aI57
+aI65
+asS'4'
+(lp12
+I5
+aI6
+aI30
+aI32
+aI43
+aI66
+asS'7'
+(lp13
+I33
+aI34
+aI67
+aI69
+aI70
+aI73
+aI74
+asS'6'
+(lp14
+I25
+aI26
+aI38
+aI61
+aI62
+aI63
+aI64
+asS'-1'
+p15
+(lp16
+I3
+aI7
+aI19
+aI27
+aI37
+aI60
+aI68
+aI71
+aI75
+assS'courseFileRaw'
+p17
+S'coursesRaw.dat'
+p18
+sS'courseList'
+p19
+(dp20
+I0
+S'CS 410-Text Information Systems'
+p21
+sI1
+S'CS 411-Database Systems'
+p22
+sI2
+S'CS 412-Introduction to Data Mining'
+p23
+sI3
+S'CS 413-Intro to Combinatorics'
+p24
+sI4
+S'CS 414-Multimedia Systems'
+p25
+sI5
+S'CS 418-Interactive Computer Graphics'
+p26
+sI6
+S'CS 419-Production Computer Graphics'
+p27
+sI7
+S'CS 420-Parallel Progrmg: Sci & Engrg'
+p28
+sI8
+S'CS 421-Progrmg Languages & Compilers'
+p29
+sI9
+S'CS 422-Programming Language Design'
+p30
+sI10
+S'CS 423-Operating Systems Design'
+p31
+sI11
+S'CS 424-Real-Time Systems'
+p32
+sI12
+S'CS 425-Distributed Systems'
+p33
+sI13
+S'CS 426-Compiler Construction'
+p34
+sI14
+S'CS 427-Software Engineering I'
+p35
+sI15
+S'CS 428-Software Engineering II'
+p36
+sI16
+S'CS 429-Software Engineering II, ACP'
+p37
+sI17
+S'CS 431-Embedded Systems'
+p38
+sI18
+S'CS 433-Computer System Organization'
+p39
+sI19
+S'CS 436-Computer Networking Laboratory'
+p40
+sI20
+S'CS 438-Communication Networks'
+p41
+sI21
+S'CS 439-Wireless Networks'
+p42
+sI22
+S'CS 440-Artificial Intelligence'
+p43
+sI23
+S'CS 446-Machine Learning'
+p44
+sI24
+S'CS 447-Natural Language Processing'
+p45
+sI25
+S'CS 450-Numerical Analysis'
+p46
+sI26
+S'CS 457-Numerical Methods II'
+p47
+sI27
+S'CS 460-Security Laboratory'
+p48
+sI28
+S'CS 461-Computer Security I'
+p49
+sI29
+S'CS 463-Computer Security II'
+p50
+sI30
+S'CS 465-User Interface Design'
+p51
+sI31
+S'CS 466-Introduction to Bioinformatics'
+p52
+sI32
+S'CS 467-Social Visualization'
+p53
+sI33
+S'CS 473-Fundamental Algorithm'
+p54
+sI34
+S'CS 475-Formal Models of Computation'
+p55
+sI35
+S'CS 476-Program Verification'
+p56
+sI36
+S'CS 477-Formal Software Devel Methods'
+p57
+sI37
+S'CS 481-Stochastic Processes & Applic'
+p58
+sI38
+S'CS 482-Simulation'
+p59
+sI39
+S'CS 483-Applied Parallel Programming'
+p60
+sI40
+S'CS 484-Parallel Programming'
+p61
+sI41
+S'CS 511-Advanced Data Management'
+p62
+sI42
+S'CS 512-Data Mining Principles'
+p63
+sI43
+S'CS 519-Scientific Visualization'
+p64
+sI44
+S'CS 522-Programming Language Semantics'
+p65
+sI45
+S'CS 523-Advanced Operating Systems'
+p66
+sI46
+S'CS 524-Concurrent Progrmg Languages'
+p67
+sI47
+S'CS 525-Advanced Distributed Systems'
+p68
+sI48
+S'CS 526-Advanced Compiler Construction'
+p69
+sI49
+S'CS 527-Topics in Software Engineering'
+p70
+sI50
+S'CS 528-Obj-Oriented Progrmg & Design'
+p71
+sI51
+S'CS 533-Parallel Computer Architecture'
+p72
+sI52
+S'CS 536-Fault-Tolerant Dig Syst Design'
+p73
+sI53
+S'CS 538-Advanced Computer Networks'
+p74
+sI54
+S'CS 541-Computer Systems Analysis'
+p75
+sI55
+S'CS 543-Computer Vision'
+p76
+sI56
+S'CS 544-Optimiz in Computer Vision'
+p77
+sI57
+S'CS 545-Systems Modeling & Simulation'
+p78
+sI58
+S'CS 546-Machine Learning in NLP'
+p79
+sI59
+S'CS 548-Models of Cognitive Processes'
+p80
+sI60
+S'CS 549-Seminar in Cognitive Science'
+p81
+sI61
+S'CS 554-Parallel Numerical Algorithms'
+p82
+sI62
+S'CS 555-Numerical Methods for PDEs'
+p83
+sI63
+S'CS 556-Iterative & Multigrid Methods'
+p84
+sI64
+S'CS 558-Topics in Numerical Analysis'
+p85
+sI65
+S'CS 563-Advanced Computer Security'
+p86
+sI66
+S'CS 565-Human-Computer Interaction'
+p87
+sI67
+S'CS 571-Combinatorial Mathematics'
+p88
+sI68
+S'CS 572-Extremal Graph Theory'
+p89
+sI69
+S'CS 573-Algorithms'
+p90
+sI70
+S'CS 574-Randomized Algorithms'
+p91
+sI71
+S'CS 575-Methods of Combinatorics'
+p92
+sI72
+S'CS 576-Topics in Automated Deduction'
+p93
+sI73
+S'CS 579-Computational Complexity'
+p94
+sI74
+S'CS 583-Approximation Algorithms'
+p95
+sI75
+S'CS 584-Embedded System Verification'
+p96
+ssS'genreMap'
+p97
+(dp98
+S'Theoretical CS'
+p99
+S'7'
+sS'Architecture'
+p100
+S'0'
+sS'Database'
+p101
+S'2'
+sS'AI'
+p102
+S'1'
+sS'Formal Methods'
+p103
+S'3'
+sS'Graphics'
+p104
+S'4'
+sS'Scientific Computing'
+p105
+S'6'
+sS'Systems'
+p106
+S'5'
+ssS'ratingFile'
+p107
+S'ratings.dat'
+p108
+sS'courseGenreMap'
+p109
+(dp110
+I0
+S'2'
+sI1
+S'2'
+sI2
+S'2'
+sI3
+g15
+sI4
+S'5'
+sI5
+S'4'
+sI6
+S'4'
+sI7
+g15
+sI8
+S'3'
+sI9
+S'3'
+sI10
+S'5'
+sI11
+S'5'
+sI12
+S'5'
+sI13
+S'0'
+sI14
+S'3'
+sI15
+S'3'
+sI16
+S'3'
+sI17
+S'0'
+sI18
+S'0'
+sI19
+g15
+sI20
+S'5'
+sI21
+S'5'
+sI22
+S'1'
+sI23
+S'1'
+sI24
+S'1'
+sI25
+S'6'
+sI26
+S'6'
+sI27
+g15
+sI28
+S'5'
+sI29
+S'5'
+sI30
+S'4'
+sI31
+S'2'
+sI32
+S'4'
+sI33
+S'7'
+sI34
+S'7'
+sI35
+S'3'
+sI36
+S'3'
+sI37
+g15
+sI38
+S'6'
+sI39
+S'0'
+sI40
+S'0'
+sI41
+S'2'
+sI42
+S'2'
+sI43
+S'4'
+sI44
+S'3'
+sI45
+S'5'
+sI46
+S'3'
+sI47
+S'5'
+sI48
+S'0'
+sI49
+S'3'
+sI50
+S'3'
+sI51
+S'0'
+sI52
+S'0'
+sI53
+S'5'
+sI54
+S'5'
+sI55
+S'1'
+sI56
+S'1'
+sI57
+S'5'
+sI58
+S'1'
+sI59
+S'1'
+sI60
+g15
+sI61
+S'6'
+sI62
+S'6'
+sI63
+S'6'
+sI64
+S'6'
+sI65
+S'5'
+sI66
+S'4'
+sI67
+S'7'
+sI68
+g15
+sI69
+S'7'
+sI70
+S'7'
+sI71
+g15
+sI72
+S'3'
+sI73
+S'7'
+sI74
+S'7'
+sI75
+g15
+ssb.
